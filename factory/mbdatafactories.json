@@ -1,0 +1,9 @@
+{
+	"name": "mbdatafactories",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91f8fec5-686a-4db3-aaf7-730a69910fa8",
+		"tenantId": "b24388d9-c6ca-4c64-a601-5edb6e666e1e"
+	}
+}
